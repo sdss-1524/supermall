@@ -17,3 +17,5 @@ npm run build
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+网页:
+https://sdss-1524.github.io/supermall/
